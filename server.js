@@ -1,4 +1,4 @@
-// 最简 HTTP 服务器 —— 零第三方依赖
+// 最简 HTTP 服务器 —— 零零九第三方依赖 2026
 const http = require('http');
 
 const PORT = process.env.PORT || 3000;
